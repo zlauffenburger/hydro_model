@@ -1,0 +1,503 @@
+{  "data": [
+    {
+      "nodeID": "14",
+      "STAID": "12301300",
+      "STANAME": "Tobacco River near Eureka MT"
+    },
+    {
+      "nodeID": "81",
+      "STAID": "12302055",
+      "STANAME": "Fisher River near Libby MT"
+    },
+    {
+      "nodeID": "238",
+      "STAID": "12323600",
+      "STANAME": "Silver Bow Creek at Opportunity MT"
+    },
+    {
+      "nodeID": "238",
+      "STAID": "12323700",
+      "STANAME": "Mill Creek at Opportunity, MT"
+    },
+    {
+      "nodeID": "238",
+      "STAID": "12323720",
+      "STANAME": "Willow Creek at Opportunity, MT"
+    },
+    {
+      "nodeID": "234",
+      "STAID": "12323750",
+      "STANAME": "Silver Bow Creek at Warm Springs MT"
+    },
+    {
+      "nodeID": "234",
+      "STAID": "12323770",
+      "STANAME": "Warm Springs Creek at Warm Springs MT"
+    },
+    {
+      "nodeID": "232",
+      "STAID": "12323800",
+      "STANAME": "Clark Fork near Galen MT"
+    },
+    {
+      "nodeID": "232",
+      "STAID": "12323850",
+      "STANAME": "Lost Creek near Galen, MT"
+    },
+    {
+      "nodeID": "230",
+      "STAID": "12324200",
+      "STANAME": "Clark Fork at Deer Lodge MT"
+    },
+    {
+      "nodeID": "197",
+      "STAID": "12324590",
+      "STANAME": "Little Blackfoot River near Garrison MT"
+    },
+    {
+      "nodeID": "196",
+      "STAID": "12324680",
+      "STANAME": "Clark Fork at Goldcreek MT"
+    },
+    {
+      "nodeID": "193",
+      "STAID": "12331500",
+      "STANAME": "Flint Creek near Drummond MT"
+    },
+    {
+      "nodeID": "190",
+      "STAID": "12331800",
+      "STANAME": "Clark Fork near Drummond MT"
+    },
+    {
+      "nodeID": "215",
+      "STAID": "12334510",
+      "STANAME": "Rock Creek near Clinton MT"
+    },
+    {
+      "nodeID": "184",
+      "STAID": "12334550",
+      "STANAME": "Clark Fork at Turah Bridge nr Bonner MT"
+    },
+    {
+      "nodeID": "165",
+      "STAID": "12338300",
+      "STANAME": "NF Blackfoot R ab Dry Gulch nr Ovando MT"
+    },
+    {
+      "nodeID": "170",
+      "STAID": "12340000",
+      "STANAME": "Blackfoot River near Bonner MT"
+    },
+    {
+      "nodeID": "173",
+      "STAID": "12340500",
+      "STANAME": "Clark Fork above Missoula MT"
+    },
+    {
+      "nodeID": "242",
+      "STAID": "12344000",
+      "STANAME": "Bitterroot River near Darby MT"
+    },
+    {
+      "nodeID": "241",
+      "STAID": "12350250",
+      "STANAME": "Bitterroot River at Bell Crossing nr Victor MT"
+    },
+    {
+      "nodeID": "198",
+      "STAID": "12353000",
+      "STANAME": "Clark Fork below Missoula MT"
+    },
+    {
+      "nodeID": "163",
+      "STAID": "12354500",
+      "STANAME": "Clark Fork at St. Regis MT"
+    },
+    {
+      "nodeID": "76",
+      "STAID": "12358500",
+      "STANAME": "Middle Fork Flathead River nr West Glacier MT"
+    },
+    {
+      "nodeID": "126",
+      "STAID": "12359800",
+      "STANAME": "S F Flathead R ab Twin C nr Hungry Horse MT"
+    },
+    {
+      "nodeID": "109",
+      "STAID": "12370000",
+      "STANAME": "Swan River near Bigfork MT"
+    },
+    {
+      "nodeID": "107",
+      "STAID": "12372000",
+      "STANAME": "Flathead River near Polson MT"
+    },
+    {
+      "nodeID": "139",
+      "STAID": "12388400",
+      "STANAME": "Revais Cr bl West Fork nr Dixon MT"
+    },
+    {
+      "nodeID": "138",
+      "STAID": "12388700",
+      "STANAME": "Flathead River at Perma MT"
+    },
+    {
+      "nodeID": "112",
+      "STAID": "12389500",
+      "STANAME": "Thompson River near Thompson Falls MT"
+    },
+    {
+      "nodeID": "115",
+      "STAID": "12390700",
+      "STANAME": "Prospect Creek at Thompson Falls MT"
+    },
+    {
+      "nodeID": "310",
+      "STAID": "06016000",
+      "STANAME": "Beaverhead River at Barretts MT"
+    },
+    {
+      "nodeID": "305",
+      "STAID": "06017000",
+      "STANAME": "Beaverhead River at Dillon MT"
+    },
+    {
+      "nodeID": "300",
+      "STAID": "06018500",
+      "STANAME": "Beaverhead River near Twin Bridges MT"
+    },
+    {
+      "nodeID": "302",
+      "STAID": "06019500",
+      "STANAME": "Ruby River ab Reservoir nr Alder MT"
+    },
+    {
+      "nodeID": "301",
+      "STAID": "06020600",
+      "STANAME": "Ruby River bl Reservoir nr Alder MT"
+    },
+    {
+      "nodeID": "286",
+      "STAID": "06024540",
+      "STANAME": "Big Hole River bl Mudd Cr nr Wisdom MT"
+    },
+    {
+      "nodeID": "260",
+      "STAID": "06025250",
+      "STANAME": "Big Hole River at Maiden Rock nr Divide MT"
+    },
+    {
+      "nodeID": "278",
+      "STAID": "06025500",
+      "STANAME": "Big Hole River near Melrose MT"
+    },
+    {
+      "nodeID": "289",
+      "STAID": "06026210",
+      "STANAME": "Big Hole River near Glen MT"
+    },
+    {
+      "nodeID": "280",
+      "STAID": "06026420",
+      "STANAME": "Big Hole R bl Hamilton Ditch nr Twin Bridges, MT"
+    },
+    {
+      "nodeID": "276",
+      "STAID": "06026500",
+      "STANAME": "Jefferson River near Twin Bridges MT"
+    },
+    {
+      "nodeID": "233",
+      "STAID": "06033000",
+      "STANAME": "Boulder River near Boulder MT"
+    },
+    {
+      "nodeID": "325",
+      "STAID": "06037500",
+      "STANAME": "Madison River near West Yellowstone MT"
+    },
+    {
+      "nodeID": "323",
+      "STAID": "06038500",
+      "STANAME": "Madison River bl Hebgen Lake nr Grayling MT"
+    },
+    {
+      "nodeID": "318",
+      "STAID": "06038800",
+      "STANAME": "Madison River at Kirby Ranch nr Cameron MT"
+    },
+    {
+      "nodeID": "315",
+      "STAID": "06040800",
+      "STANAME": "Madison River ab powerplant nr McAllister MT"
+    },
+    {
+      "nodeID": "315",
+      "STAID": "06041000",
+      "STANAME": "Madison River bl Ennis Lake nr Mcallister MT"
+    },
+    {
+      "nodeID": "304",
+      "STAID": "06043500",
+      "STANAME": "Gallatin River near Gallatin Gateway MT"
+    },
+    {
+      "nodeID": "254",
+      "STAID": "06052500",
+      "STANAME": "Gallatin River at Logan MT"
+    },
+    {
+      "nodeID": "245",
+      "STAID": "06054500",
+      "STANAME": "Missouri River at Toston MT"
+    },
+    {
+      "nodeID": "189",
+      "STAID": "06065500",
+      "STANAME": "Missouri River bl Hauser Dam near Helena MT"
+    },
+    {
+      "nodeID": "186",
+      "STAID": "06066500",
+      "STANAME": "Missouri River bl Holter Dam nr Wolf Cr MT"
+    },
+    {
+      "nodeID": "150",
+      "STAID": "06073500",
+      "STANAME": "Dearborn River near Craig MT"
+    },
+    {
+      "nodeID": "203",
+      "STAID": "06076560",
+      "STANAME": "Smith River bl Newlan Cr nr White Sulphur Springs"
+    },
+    {
+      "nodeID": "195",
+      "STAID": "06076690",
+      "STANAME": "Smith River near Ft Logan MT"
+    },
+    {
+      "nodeID": "183",
+      "STAID": "06077200",
+      "STANAME": "Smith River bl Eagle Cr nr Fort Logan MT"
+    },
+    {
+      "nodeID": "181",
+      "STAID": "06077500",
+      "STANAME": "Smith River near Eden MT"
+    },
+    {
+      "nodeID": "119",
+      "STAID": "06078500",
+      "STANAME": "North Fork Sun River near Augusta MT"
+    },
+    {
+      "nodeID": "119",
+      "STAID": "06079000",
+      "STANAME": "South Fork Sun River near Augusta MT"
+    },
+    {
+      "nodeID": "129",
+      "STAID": "06085800",
+      "STANAME": "Sun River at Simms MT"
+    },
+    {
+      "nodeID": "130",
+      "STAID": "06089000",
+      "STANAME": "Sun River near Vaughn MT"
+    },
+    {
+      "nodeID": "50",
+      "STAID": "06099500",
+      "STANAME": "Marias River near Shelby MT"
+    },
+    {
+      "nodeID": "69",
+      "STAID": "06101500",
+      "STANAME": "Marias River near Chester MT"
+    },
+    {
+      "nodeID": "96",
+      "STAID": "06102050",
+      "STANAME": "Marias River near Loma MT"
+    },
+    {
+      "nodeID": "100",
+      "STAID": "06108000",
+      "STANAME": "Teton River near Dutton MT"
+    },
+    {
+      "nodeID": "101",
+      "STAID": "06108800",
+      "STANAME": "Teton River at Loma MT"
+    },
+    {
+      "nodeID": "122",
+      "STAID": "06114700",
+      "STANAME": "Judith River nr mouth, nr Winifred MT"
+    },
+    {
+      "nodeID": "204",
+      "STAID": "06119600",
+      "STANAME": "Musselshell River nr Martinsdale, MT"
+    },
+    {
+      "nodeID": "209",
+      "STAID": "06120500",
+      "STANAME": "Musselshell River at Harlowton MT"
+    },
+    {
+      "nodeID": "216",
+      "STAID": "06123030",
+      "STANAME": "Musselshell River ab Mud Cr nr Shawmut MT"
+    },
+    {
+      "nodeID": "228",
+      "STAID": "06126050",
+      "STANAME": "Musselshell River near Lavina MT"
+    },
+    {
+      "nodeID": "212",
+      "STAID": "06126500",
+      "STANAME": "Musselshell River near Roundup MT"
+    },
+    {
+      "nodeID": "208",
+      "STAID": "06127500",
+      "STANAME": "Musselshell River at Musselshell MT"
+    },
+    {
+      "nodeID": "177",
+      "STAID": "06130500",
+      "STANAME": "Musselshell River at Mosby MT"
+    },
+    {
+      "nodeID": "67",
+      "STAID": "06139500",
+      "STANAME": "Big Sandy Creek near Havre MT"
+    },
+    {
+      "nodeID": "30",
+      "STAID": "06142400",
+      "STANAME": "Clear Creek near Chinook MT"
+    },
+    {
+      "nodeID": "75",
+      "STAID": "06154550",
+      "STANAME": "Peoples Cr bl Kuhr Coulee nr Dodson MT"
+    },
+    {
+      "nodeID": "88",
+      "STAID": "06166000",
+      "STANAME": "Beaver Cr bl Guston Coulee nr Saco MT"
+    },
+    {
+      "nodeID": "51",
+      "STAID": "06167500",
+      "STANAME": "Beaver Creek near Hinsdale MT"
+    },
+    {
+      "nodeID": "27",
+      "STAID": "06183750",
+      "STANAME": "Lake Creek near Dagmar MT"
+    },
+    {
+      "nodeID": "33",
+      "STAID": "06183800",
+      "STANAME": "Cottonwood Creek near Dagmar MT"
+    },
+    {
+      "nodeID": "316",
+      "STAID": "06191500",
+      "STANAME": "Yellowstone River at Corwin Springs MT"
+    },
+    {
+      "nodeID": "308",
+      "STAID": "06192500",
+      "STANAME": "Yellowstone River near Livingston MT"
+    },
+    {
+      "nodeID": "261",
+      "STAID": "06195600",
+      "STANAME": "Shields River nr Livingston MT"
+    },
+    {
+      "nodeID": "268",
+      "STAID": "06200000",
+      "STANAME": "Boulder River at Big Timber MT"
+    },
+    {
+      "nodeID": "284",
+      "STAID": "06205000",
+      "STANAME": "Stillwater River near Absarokee MT"
+    },
+    {
+      "nodeID": "321",
+      "STAID": "06207500",
+      "STANAME": "Clarks Fork Yellowstone River nr Belfry MT"
+    },
+    {
+      "nodeID": "313",
+      "STAID": "06208500",
+      "STANAME": "Clarks Fork Yellowstone River at Edgar MT"
+    },
+    {
+      "nodeID": "264",
+      "STAID": "06214500",
+      "STANAME": "Yellowstone River at Billings MT"
+    },
+    {
+      "nodeID": "309",
+      "STAID": "06294000",
+      "STANAME": "Little Bighorn River near Hardin MT"
+    },
+    {
+      "nodeID": "317",
+      "STAID": "06306300",
+      "STANAME": "Tongue River at State Line nr Decker MT"
+    },
+    {
+      "nodeID": "311",
+      "STAID": "06307500",
+      "STANAME": "Tongue River at Tongue R Dam nr Decker MT"
+    },
+    {
+      "nodeID": "298",
+      "STAID": "06307600",
+      "STANAME": "Hanging Woman Creek near Birney MT"
+    },
+    {
+      "nodeID": "296",
+      "STAID": "06307616",
+      "STANAME": "Tongue R at Birney Day School Br nr Birney MT"
+    },
+    {
+      "nodeID": "294",
+      "STAID": "06307740",
+      "STANAME": "Otter Creek at Ashland MT"
+    },
+    {
+      "nodeID": "270",
+      "STAID": "06307990",
+      "STANAME": "Tongue R ab T & Y Div Dam nr Miles City, MT"
+    },
+    {
+      "nodeID": "247",
+      "STAID": "06308400",
+      "STANAME": "Pumpkin Creek near Miles City MT"
+    },
+    {
+      "nodeID": "223",
+      "STAID": "06308500",
+      "STANAME": "Tongue River at Miles City MT"
+    },
+    {
+      "nodeID": "213",
+      "STAID": "06326500",
+      "STANAME": "Powder River near Locate MT"
+    }
+  ]
+}
